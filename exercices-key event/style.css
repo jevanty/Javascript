@@ -1,0 +1,10 @@
+.highlight {
+    opacity: 0.5;
+}
+
+#up, #down, #left, #right {
+    border: 1px solid black;
+    background-color: rgb(22, 37, 122);
+    height: 150px;
+    width: 50%;
+}
