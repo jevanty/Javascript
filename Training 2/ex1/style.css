@@ -1,0 +1,9 @@
+div {
+    height: 15vh;
+}
+
+button {
+    color: rgb(192, 193, 197);
+    background-color: rgb(57, 63, 150);
+    padding: 10px;
+}
